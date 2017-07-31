@@ -1,4 +1,4 @@
-Package: prettydoc
+Package: prettydoc_hcss
 Type: Package
 Title: Creating Pretty Documents from R Markdown
 Version: 0.2.0
