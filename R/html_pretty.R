@@ -1,6 +1,6 @@
-#' Creating Pretty HTML from R Markdown
+#' Creating Pretty HTML from R Markdown (Hannes edit)
 #'
-#' This function is an alternative to the \code{\link[rmarkdown]{html_document}}
+#' Thiz function is an alternative to the \code{\link[rmarkdown]{html_document}}
 #' and \code{\link[rmarkdown]{html_vignette}} formats to create HTML document
 #' from R Markdown. It generates small yet pretty HTML pages that are suitable
 #' for publishing project pages and package vignettes.
